@@ -1,2 +1,6 @@
 __pycache__
 .spyproject
+venv
+env
+.pytest_cache
+.coverage
