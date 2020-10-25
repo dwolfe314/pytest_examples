@@ -20,5 +20,5 @@ def plain_function():
     
 plain_function()
 
-#plain_function = decorator_demo(plain_function)
-#plain_function()
+plain_function = decorator_demo(plain_function)
+plain_function()
